@@ -1,9 +1,10 @@
-# VS Code – Essential Tools & Features for C++ DSA
+<img width="1581" height="861" alt="image" src="https://github.com/user-attachments/assets/8070a793-bb75-40a8-9d70-d418bfca0d88" /># VS Code – Essential Tools & Features for C++ DSA
 
 A quick reference to understanding the VS Code interface, extensions, terminal, debugging and AI coding assistants.
 
 ## 1. Understanding the VS Code Interface
 
+<img width="1526" height="829" alt="image" src="https://github.com/user-attachments/assets/7a4f8c4e-ba84-4872-8f56-04c645432757" />
 
 Some important components you'll use regularly:
 
@@ -65,6 +66,9 @@ Open the Extensions Marketplace using `Ctrl + Shift + X`.
 | C/C++ Extension Pack | Additional tools for C/C++ development. |
 | Code Runner | Quickly execute code snippets and programs. |
 
+<img width="2368" height="906" alt="image" src="https://github.com/user-attachments/assets/5518585f-ed38-463f-b1cc-ec45853ef296" />
+
+
 **A few things to remember:**
 - Extensions are additional tools, not compilers.
 - Installing the C/C++ extension does not install GCC or G++.
@@ -77,12 +81,16 @@ AI coding assistants can help with code explanations, debugging, suggestions and
 Some popular options include:
 
 ### GitHub Copilot
+
 - AI-powered code completion.
 - Chat-based code explanations.
 - Suggestions while writing code.
 - Agent mode for more complex coding tasks.
 
 Official website: https://github.com/features/copilot
+
+<img width="1581" height="861" alt="image" src="https://github.com/user-attachments/assets/da0f998f-5a45-4da9-9f03-787d3785c15a" />
+
 
 ### OpenAI Codex
 - AI coding agent.
@@ -91,12 +99,18 @@ Official website: https://github.com/features/copilot
 
 Official documentation: https://developers.openai.com/codex/ide/
 
+<img width="1552" height="1012" alt="image" src="https://github.com/user-attachments/assets/0a110bf7-2b37-4728-ba07-ae535913f5ea" />
+
+
 ### Claude Code
 - AI coding assistant and agent.
 - Helps understand codebases.
 - Can implement changes and assist with debugging.
 
 Official documentation: https://code.claude.com/docs/en/vs-code
+
+<img width="1200" height="743" alt="image" src="https://github.com/user-attachments/assets/cb6d3b65-3258-43ba-83ff-4f45df0e37a6" />
+
 
 **Note:** These tools have different installation methods, account requirements and usage limits. You don't need to install all of them.
 
@@ -109,7 +123,7 @@ AI tools can help you:
 - Understand time and space complexity.
 - Debug your implementation.
 
-However, avoid relying on AI to generate complete solutions without understanding the underlying logic. The goal is to develop your own problem-solving skills.
+Avoid relying on AI to generate complete solutions without understanding the underlying logic. The goal is to develop your own problem-solving skills.
 
 ## 5. Useful VS Code Shortcuts
 
