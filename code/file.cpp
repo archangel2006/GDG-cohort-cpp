@@ -10,7 +10,7 @@ int main() {
     cout << "Enter a number: ";
     cin >> n;
 
-    cout << "Square: " << n * n << endl;
+    cout << "You entered: " << n << endl;
     return 0;
 }
 
